@@ -19,3 +19,5 @@ A C++ implementation of a simple Blackjack game.<br>
   * The implementation does not check for integer overflow when calculating the total value of the user's hand. If the user's hand contains many aces, the program may produce incorrect results.<br>
   * The implementation does not provide an option to split pairs or double down, which are common features of Blackjack.<br>
   * The implementation uses Sleep(1000), which is not the best way to pause the program for a second. It's better to use a timer or a loop to achieve a more accurate pause.<br>
+
+* Note, this is just a dummy blackjack game made to test the "card" and "deck" classes
