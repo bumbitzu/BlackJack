@@ -43,6 +43,4 @@ private:
     Rank rank_;
 };
 
-// Implementations
-
 
